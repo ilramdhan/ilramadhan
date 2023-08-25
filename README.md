@@ -44,12 +44,12 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 Let's stay connected! You can find me on various platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ilham-ramadhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/ilham_ram332" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="40" height="40" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/ilramadhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ilramadhan_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="40" height="40" alt="Twitter" /></a>
   <a href="https://github.com/ilramdhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" height="40" alt="GitHub" /></a>
-  <a href="https://discordapp.com/users/YourUserID" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" width="40" height="40" alt="Discord" /></a>
-  <a href="https://www.instagram.com/yourinstagram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram" /></a>
-  <a href="https://steamcommunity.com/id/yoursteamprofile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" width="40" height="40" alt="Steam" /></a>
+  <a href="https://discordapp.com/users/568987901724065805" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" width="40" height="40" alt="Discord" /></a>
+  <a href="https://www.instagram.com/ilramadhan_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199015659084" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" width="40" height="40" alt="Steam" /></a>
   <!-- Add more social media links here -->
 </p>
 
