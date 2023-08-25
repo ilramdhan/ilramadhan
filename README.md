@@ -64,15 +64,17 @@ I'm a proud Linux Deepin user. My development environment is as sleek as my code
 Feel free to reach out to me if you want to discuss tech, development, or just have a chat. Let's create something amazing together! 😄
 
 ---
+<h2 align="center">
+🤖 GitHub Stats 🤖
+</h2>
 
-### 🤖 GitHub Stats
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilramdhan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-
-### 📈 GitHub Activity Graph
+<h2 align="center">
+📈 GitHub Activity Graph 📈
+</h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
