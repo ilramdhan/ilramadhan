@@ -20,9 +20,12 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 - Learning and mastering Laravel, PHP, Javascript, HTML, CSS, Kotlin, Figma, Git, MySql, Oracle, JSON, NetBeans, Visual Studio Code, PhpStorm, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Blender, Corel Draw, JetBrains
 - Exploring the limitless possibilities of web and mobile development
 
-### 🌟 Skills
+<h2 align="center">
+  🌟 Skills
+</h2>
+<p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p>
 
-<p align="left">
+<p align="center">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" width="40" height="40" alt="Laravel" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" width="40" height="40" alt="PHP" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width="40" height="40" alt="Javascript" /></a>
@@ -39,11 +42,15 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
   <!-- Add more skills here -->
 </p>
 
-### 🤝 Connect with Me
+<h2 align="center">
+  🤝 Connect with Me
+</h2>
 
-Let's stay connected! You can find me on various platforms:
+<p align="center">Let's stay connected! You can find me on various platforms:</p>
+<p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p>
 
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ilramadhan" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
   <a href="https://twitter.com/ilramadhan_" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="40" height="40" alt="Twitter" /></a>
   <a href="https://github.com/ilramdhan" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" height="40" alt="GitHub" /></a>
@@ -54,6 +61,7 @@ Let's stay connected! You can find me on various platforms:
 </p>
 
 ### 🌐 Get in Touch
+<sup><sub>Don`t forget hold ctrl then click :)</sub></sup>
 
 - Email: ilhamram332@gmail.com
 
