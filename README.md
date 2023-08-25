@@ -21,7 +21,7 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 - Exploring the limitless possibilities of web and mobile development
 
 <h2 align="center">
-  🌟 Skills
+  🌟 Skills 🌟
 </h2>
 <p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p>
 
@@ -43,7 +43,7 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 </p>
 
 <h2 align="center">
-  🤝 Connect with Me
+  🤝 Connect with Me 🤝
 </h2>
 
 <p align="center">Let's stay connected! You can find me on various platforms:</p>
