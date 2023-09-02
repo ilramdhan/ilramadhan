@@ -81,6 +81,18 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 </p>
 
 <h2 align="center">
+📈 Activity Time 📈
+</h2>
+
+<!--START_SECTION:waka-->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilramdhan&theme=merko" alt="GitHub Activity Graph" />
+  </a>
+</p>
+<!--END_SECTION:waka-->
+
+<h2 align="center">
 📈 GitHub Activity Graph 📈
 </h2>
 
