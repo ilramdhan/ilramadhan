@@ -2,6 +2,7 @@
 
 ## 🌟 Web and Mobile Developer | Tech Enthusiast 🚀
 ![](https://komarev.com/ghpvc/?username=ilramdhan&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/95544809-9c49-47ee-89fd-41985f53ae0d/project/81cd20a7-f3e4-4b95-8bbc-678cbdb21243.svg)](https://wakatime.com/badge/user/95544809-9c49-47ee-89fd-41985f53ae0d/project/81cd20a7-f3e4-4b95-8bbc-678cbdb21243)
 <!---
 ![Github Followers](https://img.shields.io/github/followers/ilramdhan?label=Followers&logo=GitHub&style=for-the-badge)
 ![Twitter Followers](https://img.shields.io/twitter/follow/ilramadhan_&?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
@@ -86,8 +87,8 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 
 <!--START_SECTION:waka-->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilramdhan&theme=merko" alt="GitHub Activity Graph" />
+  <a href="">
+    <img src="https://wakatime.com/share/@95544809-9c49-47ee-89fd-41985f53ae0d/dad372f7-d844-472a-a34e-ef1df32ee6e4.svg" alt="MyWakaTime" />
   </a>
 </p>
 <!--END_SECTION:waka-->
