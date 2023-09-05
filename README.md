@@ -83,10 +83,6 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 </p>
 
 <h2 align="center">
-📈 Activity Time 📈
-</h2>
-
-<h2 align="center">
 📈 GitHub Activity Graph 📈
 </h2>
 
