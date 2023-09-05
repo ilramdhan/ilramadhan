@@ -86,14 +86,6 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 📈 Activity Time 📈
 </h2>
 
-<!--START_SECTION:waka-->
-<p align="center">
-  <a href="">
-    <img src="https://wakatime.com/share/@95544809-9c49-47ee-89fd-41985f53ae0d/dad372f7-d844-472a-a34e-ef1df32ee6e4.svg" alt="MyWakaTime" />
-  </a>
-</p>
-<!--END_SECTION:waka-->
-
 <h2 align="center">
 📈 GitHub Activity Graph 📈
 </h2>
