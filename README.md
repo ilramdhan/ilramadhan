@@ -13,7 +13,10 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 
 ### 👨‍💻 Professional Background
 
-- Web Developer at PT. Royal Dparagon Land
+- Mobile Developer Cohort at Bangkit Academy 2023 By Google, GoTo, Traveloka
+- Android Engineering (Kotlin) Bootcamp at SYNRGY Academy
+- Design Marketing and Public Relations team at STMIK Sinar Nusantara
+- Fullstack Web Developer at PT. Royal Dparagon Land
 - Undergraduate Student majoring in Informatics at STMIK Sinar Nusantara
 - Majoring in Management at the Open University
 
