@@ -2,7 +2,7 @@
 
 ## 🌟 Fullstack Web and Mobile Developer | Tech Enthusiast 🚀
 ![](https://komarev.com/ghpvc/?username=ilramdhan&style=flat-square)
-[![wakatime](https://wakatime.com/badge/github/ilramdhan/IlhamSubmission.svg)](https://wakatime.com/badge/github/ilramdhan/IlhamSubmission)
+
 
 <!---
 ![Github Followers](https://img.shields.io/github/followers/ilramdhan?label=Followers&logo=GitHub&style=for-the-badge)
