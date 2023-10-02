@@ -5,11 +5,6 @@
 [![wakatime](https://wakatime.com/badge/github/ilramdhan/IlhamSubmission.svg)](https://wakatime.com/badge/github/ilramdhan/IlhamSubmission)
 
 
-<!---
-![Github Followers](https://img.shields.io/github/followers/ilramdhan?label=Followers&logo=GitHub&style=for-the-badge)
-![Twitter Followers](https://img.shields.io/twitter/follow/ilramadhan_&?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
--->
-
 I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting digital solutions that make a difference. Here's a bit about me:
 
 ### 👨‍💻 Professional Background
