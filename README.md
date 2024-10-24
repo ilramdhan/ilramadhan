@@ -17,13 +17,14 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 - Mobile Developer Cohort at Bangkit Academy 2023 By Google, GoTo, Traveloka
 - Android Engineering (Kotlin) Bootcamp at SYNRGY Academy.
 - Design Marketing and Public Relations team at STMIK Sinar Nusantara
-- Fullstack Web Developer at PT. Royal Dparagon Land.
-- Undergraduate Student majoring in Informatics at STMIK Sinar Nusantara
-- Majoring in Management at the Open University.
+- Fullstack Web Developer at PT. Royal Dparagon Land (2023).
+- Fullstack Web Developer at PT. Mutuading Tekstil (2024 - present).
+- Graduate Student Majoring in Informatics at STMIK Sinar Nusantara
+- Graduate Student Majoring in Management at the Open University.
 
 ### 💡 What I'm Up To
 
-- Learning and mastering Laravel, PHP, Javascript, HTML, CSS, Kotlin, Figma, Git, MySql, Oracle, JSON, NetBeans, Visual Studio Code, PhpStorm, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Blender, Corel Draw, JetBrains
+- Learning and mastering Laravel, PHP, Livewire, Javascript, HTML, CSS, Kotlin, Figma, Git, MySql, Oracle, JSON, NetBeans, Visual Studio Code, PhpStorm, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Blender, Corel Draw, JetBrains
 - Exploring the limitless possibilities of web and mobile development
 
 <h2 align="center">
