@@ -88,7 +88,7 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilramdhan&layout=compact" alt="Top Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilramdhan&layout=compact&bg_color=FFFFF" alt="Top Language" />
 </p>
 
 <h2 align="center">
@@ -97,6 +97,6 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilramdhan&theme=merko" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilramdhan&theme=high-contrast" alt="GitHub Activity Graph" />
   </a>
 </p>
