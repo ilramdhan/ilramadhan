@@ -84,7 +84,11 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilramdhan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilramdhan&show_icons=true&bg_color=FFFFF" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilramdhan&layout=compact" alt="Top Language" />
 </p>
 
 <h2 align="center">
