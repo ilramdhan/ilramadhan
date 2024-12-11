@@ -73,10 +73,6 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 
 - Email: ilhamram332@gmail.com
 
-### ⚡ Fun Fact !!!
-
-I'm a proud Linux Deepin user. My development environment is as sleek as my code!
-
 Feel free to reach out to me if you want to discuss tech, development, or just have a chat. Let's create something amazing together! 😄
 
 ---
@@ -84,13 +80,11 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 🤖 GitHub Stats 🤖
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilramdhan&show_icons=true&bg_color=FFFFF" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ilramdhan/GithubStats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
+  <img src="https://raw.githubusercontent.com/ilramdhan/GithubStats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilramdhan&layout=compact&bg_color=FFFFF" alt="Top Language" />
-</p>
 
 <h2 align="center">
 📈 GitHub Activity Graph 📈
