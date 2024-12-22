@@ -1,9 +1,8 @@
-# Hello, I'm Ilham Ramadhan! 👋
+# Hai, I'm Ilham Ramadhan! 👋
 
 ## 🌟 Fullstack Web and Mobile Developer | Tech Enthusiast 🚀
 ![](https://komarev.com/ghpvc/?username=ilramdhan&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/95544809-9c49-47ee-89fd-41985f53ae0d.svg)](https://wakatime.com/@95544809-9c49-47ee-89fd-41985f53ae0d)
-
 
 <!---
 ![Github Followers](https://img.shields.io/github/followers/ilramdhan?label=Followers&logo=GitHub&style=for-the-badge)
