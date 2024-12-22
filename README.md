@@ -1,4 +1,4 @@
-# Hai, I'm Ilham Ramadhan! 👋
+# Hi, I'm Ilham Ramadhan! 👋
 
 ## 🌟 Fullstack Web and Mobile Developer | Tech Enthusiast 🚀
 ![](https://komarev.com/ghpvc/?username=ilramdhan&style=flat-square)
