@@ -14,13 +14,13 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 
 ### 👨‍💻 Professional Background
 
-- Mobile Developer Cohort at Bangkit Academy 2023 By Google, GoTo, Traveloka
-- Android Engineering (Kotlin) Bootcamp at SYNRGY Academy.
-- Design Marketing and Public Relations team at STMIK Sinar Nusantara
-- Fullstack Web Developer at PT. Royal Dparagon Land (2023).
 - Fullstack Web Developer at PT. Mutuading Tekstil (2024 - present).
-- Graduate Student Majoring in Informatics at STMIK Sinar Nusantara
-- Graduate Student Majoring in Management at the Open University.
+- Fullstack Web Developer at PT. Royal Dparagon Land (2023).
+- Mobile Developer Cohort at Bangkit Academy 2023 By Google, GoTo, Traveloka (2023).
+- Android Engineering (Kotlin) Bootcamp at SYNRGY Academy (2023).
+- Graduate Student Majoring in Informatics at STMIK Sinar Nusantara (2024).
+- Graduate Student Majoring in Management at the Open University (2024).
+- Design Marketing and Public Relations team at STMIK Sinar Nusantara (2023).
 
 ### 💡 What I'm Up To
 
@@ -88,6 +88,8 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 <h2 align="center">
 📈 GitHub Activity Graph 📈
 </h2>
+
+![](https://raw.githubusercontent.com/ilramdhan/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
