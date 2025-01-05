@@ -1,8 +1,14 @@
 <!--- # Hi, I'm Ilham Ramadhan! 👋 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ilham+Ramadhan!;+a+Fullstack+Web+Developer" />
+    <p>
+        <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+    </p>
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ilham+Ramadhan!;+a+Fullstack+Web+Developer" />
+    </p>
 </h1>
+
 
 ## 🌟 Fullstack Web and Mobile Developer | Tech Enthusiast 🚀
 ![](https://komarev.com/ghpvc/?username=ilramdhan&style=flat-square)
@@ -103,4 +109,5 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilramdhan&theme=high-contrast" alt="GitHub Activity Graph" />
   </a>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
