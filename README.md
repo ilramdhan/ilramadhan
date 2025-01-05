@@ -1,4 +1,8 @@
-# Hi, I'm Ilham Ramadhan! 👋
+<!--- # Hi, I'm Ilham Ramadhan! 👋 -->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ilham+Ramadhan!;+a+Fullstack+Web+Developer" />
+</h1>
 
 ## 🌟 Fullstack Web and Mobile Developer | Tech Enthusiast 🚀
 ![](https://komarev.com/ghpvc/?username=ilramdhan&style=flat-square)
@@ -30,9 +34,13 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 <h2 align="center">
   🌟 Skills 🌟
 </h2>
-<p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p>
+<!-- <p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p> -->
 
 <p align="center">
+
+  <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,tailwind,js,nodejs,jquery,kotlin,ts,react,py," />
+  <img src="https://skillicons.dev/icons?i=idea,phpstorm,webstorm,pycharm,figma,androidstudio,git,github,mysql," />
+  <!--
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" width="40" height="40" alt="Laravel" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" width="40" height="40" alt="PHP" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width="40" height="40" alt="Javascript" /></a>
@@ -46,7 +54,7 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" /></a>
-  <!-- Add more skills here -->
+  -->
 </p>
 
 <h2 align="center">
