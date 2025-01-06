@@ -40,27 +40,10 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 <h2 align="center">
   🌟 Skills 🌟
 </h2>
-<!-- <p align="center"><sup><sub>Don`t forget hold ctrl then click :)</sub></sup></p> -->
 
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=laravel,php,html,css,bootstrap,tailwind,js,nodejs,jquery,kotlin,ts,react,py," />
   <img src="https://skillicons.dev/icons?i=idea,phpstorm,webstorm,pycharm,figma,androidstudio,git,github,mysql," />
-  <!--
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" width="40" height="40" alt="Laravel" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" width="40" height="40" alt="PHP" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width="40" height="40" alt="Javascript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width="40" height="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" width="40" height="40" alt="CSS3" /></a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg" width="40" height="40" alt="Kotlin" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="40" height="40" alt="Git" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/nodejs.svg" width="40" height="40" alt="Node.js" /></a>
-  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_gl=1*ec0r0a*_ga*MTk1NjA0OTg3LjE2OTIxMDkxOTE.*_ga_9J976DJZ68*MTY5MjUzMDk5Ny4zLjAuMTY5MjUzMTAwNS41Mi4wLjA.&_ga=2.258598026.1827903085.1692530998-195604987.1692109191&_gac=1.27847630.1692109515.CjwKCAjwxOymBhAFEiwAnodBLNqbLi5lap9cTLVSl6qYWQbi2kZqrCtZsDLpNT3BcCrcNsFK-d99fBoCNPAQAvD_BwE" width="40" height="40" alt="JetBrains" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" /></a>
-  -->
 </p>
 
 <h2 align="center">
