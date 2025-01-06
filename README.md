@@ -78,7 +78,6 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
   <a href="https://discordapp.com/users/568987901724065805" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" width="40" height="40" alt="Discord" /></a>
   <a href="https://www.instagram.com/ilramadhan_" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram" /></a>
   <a href="https://steamcommunity.com/profiles/76561199015659084" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" width="40" height="40" alt="Steam" /></a>
-  <!-- Add more social media links here -->
 </p>
 
 ### 🌐 Get in Touch
