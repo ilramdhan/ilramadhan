@@ -80,7 +80,6 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
   <img src="https://raw.githubusercontent.com/ilramdhan/GithubStats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
 </div>
 
-
 <h2 align="center">
 📈 GitHub Activity Graph 📈
 </h2>
