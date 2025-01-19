@@ -25,11 +25,11 @@ I'm a passionate Web and Mobile Developer based in Indonesia. I love crafting di
 ### 👨‍💻 Professional Background
 
 - Fullstack Web Developer at PT. Mutuading Tekstil (2024 - present).
+- Graduate Student Majoring in Informatics at STMIK Sinar Nusantara (2024).
+- Graduate Student Majoring in Management at the Open University (2024).
 - Fullstack Web Developer at PT. Royal Dparagon Land (2023).
 - Mobile Developer Cohort at Bangkit Academy 2023 By Google, GoTo, Traveloka (2023).
 - Android Engineering (Kotlin) Bootcamp at SYNRGY Academy (2023).
-- Graduate Student Majoring in Informatics at STMIK Sinar Nusantara (2024).
-- Graduate Student Majoring in Management at the Open University (2024).
 - Design Marketing and Public Relations team at STMIK Sinar Nusantara (2023).
 
 ### 💡 What I'm Up To
